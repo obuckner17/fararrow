@@ -1,7 +1,7 @@
 # fararrow
 Fararrow Platform
 
-**Architecture Overview****
+**Architecture Overview**
 
 The system is split into three main components, all sharing a single Rust library (processor_lib):
 
@@ -21,7 +21,7 @@ The system is split into three main components, all sharing a single Rust librar
 
     Contributor-Ready: Clear separation of concerns and robust test structure.
 
-** Local Quick Start Guide**
+**Local Quick Start Guide**
 
 To get the full hybrid system running locally, you must run the server and the frontend simultaneously in two separate terminal windows.
 
